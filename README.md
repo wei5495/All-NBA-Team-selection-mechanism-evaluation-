@@ -1,4 +1,4 @@
-# Sports-analytics Project
+# Sports-analytics Project (ALL NBA TEAM SELECTION MECHANISM EVALUATION)
 An Evaluation of current all NBA team selection mechanism using optimization technique
 
 Data Source: https://www.basketball-reference.com/leagues/NBA2021advanced.html
